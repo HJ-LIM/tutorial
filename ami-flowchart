@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-28T09:34:05.318Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="_2VrMY2SVQFHShWbjcyc" version="16.6.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-02-28T09:34:58.078Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="ewKV1UvnaYszIecLA_3d" version="16.6.2" type="github" pages="4">
   <diagram name="회원가입" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
     <mxGraphModel dx="1270" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -46,7 +46,7 @@
         <mxCell id="aZXOuIFNcqpYpy8uk80u-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2b4e8129b02d487f-3" source="aZXOuIFNcqpYpy8uk80u-16" target="aZXOuIFNcqpYpy8uk80u-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aZXOuIFNcqpYpy8uk80u-16" value="참여고객&lt;br&gt;정보수정" style="whiteSpace=wrap;html=1;fontSize=8;fontFamily=Verdana;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="2b4e8129b02d487f-3">
+        <mxCell id="aZXOuIFNcqpYpy8uk80u-16" value="참여고객&lt;br&gt;정보 Update&lt;br&gt;" style="whiteSpace=wrap;html=1;fontSize=8;fontFamily=Verdana;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="2b4e8129b02d487f-3">
           <mxGeometry x="714" y="62" width="86.5" height="49" as="geometry" />
         </mxCell>
         <mxCell id="aZXOuIFNcqpYpy8uk80u-17" value="데이터 수집&lt;br&gt;확인" style="whiteSpace=wrap;html=1;fontSize=8;fontFamily=Verdana;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="2b4e8129b02d487f-3">
@@ -84,6 +84,11 @@
         <mxCell id="aZXOuIFNcqpYpy8uk80u-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aZXOuIFNcqpYpy8uk80u-8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="753.75" y="374.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aZXOuIFNcqpYpy8uk80u-21" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aZXOuIFNcqpYpy8uk80u-15">
+          <mxGeometry x="0.0265" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aZXOuIFNcqpYpy8uk80u-8" value="자원이 &lt;br&gt;존재하는가?" style="rhombus;whiteSpace=wrap;html=1;fontSize=8;fontFamily=Verdana;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="1">
